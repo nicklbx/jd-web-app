@@ -1,0 +1,104 @@
+{
+    "code": "0",
+    "msg": "",
+    "data": {
+        "data": [
+            {
+                "cid": 1,
+                "cpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/212383/40/9399/14223/61cc0878E049e6595/ae2170778a34733b.jpg.webp",
+                "cname": "男装",
+                "subcategories": [
+                    {
+                        "subcid": 11,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫1"
+                    },
+                    {
+                        "subcid": 12,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    },
+                    {
+                        "subcid": 13,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    },
+                    {
+                        "subcid": 14,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    },
+                    {
+                        "subcid": 15,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    }
+                ]
+            },
+            {
+                "cid": 2,
+                "cpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/212383/40/9399/14223/61cc0878E049e6595/ae2170778a34733b.jpg.webp",
+                "cname": "女装",
+                "subcategories": [
+                    {
+                        "subcid": 21,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫2"
+                    },
+                    {
+                        "subcid": 22,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    },
+                    {
+                        "subcid": 23,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    },
+                    {
+                        "subcid": 24,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    },
+                    {
+                        "subcid": 25,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    }
+                ]
+            },
+            {
+                "cid": 3,
+                "cpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/212383/40/9399/14223/61cc0878E049e6595/ae2170778a34733b.jpg.webp",
+                "cname": "童装",
+                "subcategories": [
+                    {
+                        "subcid": 31,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫3"
+                    },
+                    {
+                        "subcid": 32,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    },
+                    {
+                        "subcid": 33,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    },
+                    {
+                        "subcid": 34,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    },
+                    {
+                        "subcid": 35,
+                        "scpic": "https://m.360buyimg.com/mobile/s130x130_jfs/t1/211632/8/11088/5086/61a62ae8Ee5f5140d/7100b6676025123e.jpg.webp",
+                        "subcname": "夹克衫"
+                    }
+                ]
+            }
+        ]
+    }
+}
